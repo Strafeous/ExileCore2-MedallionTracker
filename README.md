@@ -6,6 +6,9 @@ Lightweight ExileCore2 plugin that tracks Incursion Medallions in Vaal Temple wi
 **Author:** Strafeous  
 **Version:** 1.0.0
 
+
+![Download](https://img.shields.io/github/v/release/Strafeous/ExileCore2-MedallionTracker)
+
 ---
 
 ## Features
